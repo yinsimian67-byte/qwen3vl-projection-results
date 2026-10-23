@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "dataset_id": "8e945e7dd2bf43a630fce9b01c701627bbe8557890e961aa043ac79c21eff99b",
+  "revision": "f54c09fd23315a6f9c86f9dc80f725de7d8f9c64",
+  "files": {
+    "train.txt": "455ca1352f77242b9390f805b21f5dd7f2dd8b031c9d355c69e3bd1f572a3fbf",
+    "valid.txt": "d72dfc1e4521a24b5fb18e4415f51b8c55a707f03d20401a0ed5163e836a8ec7",
+    "train.npy": "c90b58203cec4481a6cc3055e9cde19e93780973f5b704a5d0c8c4afd97c6d47",
+    "valid.npy": "bab77cb0a1f4072844026ed0e12087937d5085975d88fc53d58e4c1ab223071b",
+    "train.stories.json": "77e1f4c8b944f5ed0d1f4324a50214bb11ad2e7be3591be3dd5a7399125c2d0a",
+    "valid.stories.json": "0591755ecd5a617f961ba5dd9f513e1927b388aa8034fdd1ecc1aea49de6d809",
+    "split.json": "ebe76a474292eb4671cad83cb9d2498b84f59b4f0a583cde19d0e7ef898b9710",
+    "tokenizer/vocab.json": "1af3e616f79b924c1813101be53af4416d2b98d16aeb4db0cd508ea6411cb0da",
+    "tokenizer/merges.json": "61fedc456c4896d04437d811b6883041ce8ae5fa76ce2be86d93f2bad8b56296",
+    "tokenizer/tokenizer.json": "cad5f4c5117e18a4360a135153a20333f263c81bf77b713918180207377f3794"
+  },
+  "tokens": {
+    "train": 19683300,
+    "valid": 387711
+  },
+  "stories": {
+    "train": 100000,
+    "valid": 2000
+  },
+  "bpe_seconds": 18.35389391699573
+}
