@@ -1,0 +1,8 @@
+{
+  "format": "cs336-course-bpe-base64-v1",
+  "pattern": "'(?:[sdmt]|ll|ve|re)| ?\\p{L}+| ?\\p{N}+| ?[^\\s\\p{L}\\p{N}]+|\\s+(?!\\S)|\\s+",
+  "special_tokens": [
+    "<|endoftext|>"
+  ],
+  "vocab_size": 10000
+}
