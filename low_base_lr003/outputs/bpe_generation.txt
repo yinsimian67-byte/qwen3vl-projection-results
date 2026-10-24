@@ -1,0 +1,46 @@
+BPE demonstration
+demo_corpus_chars=200000 demo_vocab_size=500 demo_merges=243
+trained_bpe_roundtrip=True encoded_tokens=475
+
+Generation comparison
+
+Prompt 1: Once upon a time, there was a little rabbit who
+[greedy]
+Once upon a time, there was a little rabbit who lived in a big forest. The rabbit loved to play and have fun with his friends. One day, while playing, he found a big, shiny rock. The rock was very pretty and shiny.
+The rabbit wanted to show his friends the shiny rock. He thought it would be fun to play with it. So, he took the rock to his friends and showed them the shiny rock. They all thought it was very cool.
+But then, something unexpected happened. The shiny rock started to move! It was not a rock at all. It was a big, shiny rock! The rock was not a rock at all. It was a turtle! The turtle said, "Hello, I am a turtle. I am a turtle. I am a turtle. I can help you find your way home." The turtle was very happy and thanked the turtle. From that day on, the turtle and the turtle became best friends.<|endoftext|>Once upon a time, there was a little girl named Lily. She loved to play with her toys and eat yummy food. One day, she found a big, yummy steak on the table. She was very happy and wanted to eat it all.
+Lily's mom saw her looking at the steak and said, "Lily, don't
+[temperature=0.8, top_p=0.9]
+Once upon a time, there was a little rabbit who loved to hop. Every day, he hopped and hopped around the forest, hopping and playing with his friends. One day, while hopping around, he found a shiny thing on the ground. It was a key! He didn't know what it was, so he picked it up with his mouth and hopped around with it. 
+Suddenly, he heard a voice. It was his friend, the squirrel. The squirrel told him that the key was a special key. The squirrel was very excited and he asked the squirrel to help him open the door. The squirrel agreed and together they opened the door. 
+Inside the door, the squirrel found a small box. Inside the box was a shiny key. He was so excited that he jumped up and down. His friends laughed and cheered. The squirrel was so happy and he decided to keep his key forever.<|endoftext|>Once upon a time, there was a big, scary wolf. He lived in a big forest with many trees. The wolf had many friends, but he was too scared to talk to them. One day, the wolf saw a little bird who was sad. The bird could not fly.
+The wolf wanted to help the bird. He used his strong legs to carry the bird to his home. The bird
+
+Prompt 2: Lily found a small key in the garden. She
+[greedy]
+Lily found a small key in the garden. She thought it might unlock the door. She picked it up and looked inside. She saw a small door with a lock on it. She opened the door and saw a room with a big, red ball. She was very happy.
+Lily played with the ball all day. She threw it, threw it, and rolled it. She had so much fun. But then, she heard a noise. It was her friend, Tom. Tom was a little boy who liked to play with cars. He saw Lily and wanted to play with her.
+"Hi, Lily!" Tom said. "Can I play with you?"
+"Sure, Tom!" Lily said. "You can play with me and my ball. We can throw the ball and catch it."
+Tom and Lily played with the ball for a while. They threw it and caught it. They had fun. They were happy. They forgot about the door. They were glad they had a fun day.<|endoftext|>Once upon a time, there was a little girl named Lily. She loved to play with her toys and eat yummy food. One day, she found a big, yummy steak in the kitchen. She was very happy and wanted to eat it all.
+Lily's mom saw her looking at the steak
+[temperature=0.8, top_p=0.9]
+Lily found a small key in the garden. She wanted to open it and see what was inside. She tried to open the door, but it was stuck. She called her friend, Tom. "Tom, can you help me open this door?" she asked.
+Tom came and helped Lily open the door. Inside, they found a beautiful garden. There were many flowers and butterflies. Lily and Tom were very happy. They played in the garden all day. They found many pretty flowers and big trees.
+At the end of the day, Lily and Tom were tired but happy. They said goodbye to the garden and went home. They knew they would have more fun days in the garden.<|endoftext|>Once upon a time, there was a little boy named Tim. Tim loved to play with his toy car. One day, he found a big, harmless bug in his yard. Tim thought it was so cute and wanted to pet it.
+Tim picked up the bug and said, "Hi, bug! I have a gift for you!" He looked around and saw a big, shiny stone. Tim said, "Hello, stone! I found you, but I want to be your friend." The stone was happy to have a friend.
+But then, something unexpected happened. The stone started to move! It was
+
+Prompt 3: Tom wanted to help his friend, but
+[greedy]
+Tom wanted to help his friend, but he was scared of the dark.
+Tom had an idea. He went to his friend, the wise owl. "Mr. Owl, can you help me find my friend?" he asked. Mr. Owl said, "Yes, Tom. I will help you."
+Tom and Mr. Owl looked everywhere for the friend. They looked under the bed, behind the door, and in the closet. Finally, they found the friend. The friend was a little dog. The dog was happy to be with Tom. They played together all day and became best friends.<|endoftext|>Once upon a time, there was a little girl named Lily. She loved to play with her toys and make them go on big adventures. One day, she found a big box in her room. She was very excited and wanted to see what was inside.
+Lily opened the box and found a big, soft teddy bear. She was so happy and surprised. She played with the teddy bear all day long. She showed it to her mom and dad, and they were very proud of her.
+But then, something unexpected happened. The teddy bear started to talk! It said, "Hello, Lily! I am a magic teddy bear. I can grant you one wish." Lily was very surprised
+[temperature=0.8, top_p=0.9]
+Tom wanted to help his friend, but he was scared of the big tree. He knew he had to trust his friend, Sam, who lived in the tree. So, Tom took his friend's hand and started to climb the tree.
+As Tom climbed higher and higher, he could see a bird. He looked up and saw a big, pretty bird. Tom was so happy! He took his friend's hand and said, "Look, I am a bird!" Tom and Sam laughed and played with the bird. They had a fun day at the park.<|endoftext|>Once upon a time, there was a little girl named Sue. Sue loved to sing. She would sing all day long. One day, Sue's mom said, "Sue, let's have a race to see who can sing the most."
+Sue was very excited. She wanted to see the big tree. But her mom said, "No, Sue. The tree is too high for you. You might fall and hurt yourself."
+Sue listened to her mom and stayed away from the tree. She found a nice, safe place to sing. Sue started to sing the song. She sang a happy song. The song was so beautiful that everyone was happy.
+After the song, Sue went home. She told her mom about the
