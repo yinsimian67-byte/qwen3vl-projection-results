@@ -1,0 +1,52 @@
+{
+  "format_version": 2,
+  "scope": "student_local_only",
+  "teacher_accepted": false,
+  "passed": true,
+  "track": "low",
+  "parameter_count": 22696448,
+  "weights_bytes": 90798396,
+  "weights_sha256": "d4d92dbb273dda92e8c640257456f389463664de06c2a573e02f48403e5e22c6",
+  "config_sha256": "49c829f545442f594d644b9d1f7255529e05d9baa97a29fe1e6adc60f6029b1e",
+  "dataset_id": "8e945e7dd2bf43a630fce9b01c701627bbe8557890e961aa043ac79c21eff99b",
+  "tokenizer": {
+    "tokenizer/vocab.json": "1af3e616f79b924c1813101be53af4416d2b98d16aeb4db0cd508ea6411cb0da",
+    "tokenizer/merges.json": "61fedc456c4896d04437d811b6883041ce8ae5fa76ce2be86d93f2bad8b56296",
+    "tokenizer/tokenizer.json": "cad5f4c5117e18a4360a135153a20333f263c81bf77b713918180207377f3794"
+  },
+  "environment": {
+    "system": "Linux",
+    "python": "3.12.14",
+    "platform": "Linux-5.15.0-48-generic-x86_64-with-glibc2.35",
+    "machine": "x86_64",
+    "executable": "/mnt/datadisk0/yinjingyi/llm_course/first/1/qwen3vl-projection-results/transformer_low4/.venv/bin/python",
+    "packages": {
+      "torch": "2.11.0+cu128",
+      "numpy": "2.5.3",
+      "regex": "2026.9.10",
+      "einops": "0.8.2",
+      "jaxtyping": "0.3.11",
+      "psutil": "7.2.2",
+      "pytest": "9.1.1",
+      "pytest-timeout": "2.4.0",
+      "tiktoken": "0.14.0",
+      "matplotlib": "3.11.2"
+    },
+    "cuda": "12.8",
+    "cuda_available": true,
+    "gpu": "NVIDIA RTX PRO 5000 Blackwell",
+    "lock_sha256": "4f6374b58147216462b76a47eccb58623bdcd9d500e993202493b98dd4d282a0",
+    "differences": {},
+    "teacher_execution_required": true,
+    "note": "课程要求使用指定Linux及锁定依赖；网页填写属于声明，本地检查不能替代教师评测。"
+  },
+  "student_forward": {
+    "passed": true,
+    "logits_shape": [
+      2,
+      16,
+      10000
+    ],
+    "causality": true
+  }
+}
