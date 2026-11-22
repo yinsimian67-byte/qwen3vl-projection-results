@@ -1,0 +1,13 @@
+# Linux x86_64, Python 3.10/3.11, one NVIDIA 24GB GPU.
+# Install torch/torchvision first from the official CUDA 12.4 wheel index:
+# pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.51.3
+peft==0.15.2
+accelerate==1.6.0
+bitsandbytes==0.45.5
+safetensors==0.5.3
+numpy==1.26.4
+Pillow==11.2.1
+av==14.2.0

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "paired_queries": 1248,
+  "pointwise_examples": 2496,
+  "pairwise_examples": 1248,
+  "data_seed": 2026,
+  "source_path": "data/reference_full/sft_pairwise.jsonl",
+  "source_sha256": "ac478bd258145c7ce8d46f83c34f0e48e811b0fb4b158cdbb296199751b46bff",
+  "train_annotations_sha256": "6cb1ab2175de414cd6e1bbae3b6815cd7f771819cd39cf1639d933e1e733b698",
+  "prepared": {
+    "pointwise": {
+      "path": "data/reference_full/sft_pointwise.jsonl",
+      "examples": 2496,
+      "sha256": "5287478183ae564cc737d7e72893ed004113a136b64287a4405d771646fc8e4f"
+    },
+    "pairwise": {
+      "path": "data/reference_full/sft_pairwise.jsonl",
+      "examples": 1248,
+      "sha256": "ac478bd258145c7ce8d46f83c34f0e48e811b0fb4b158cdbb296199751b46bff"
+    }
+  },
+  "training_seeds": [
+    42,
+    2026,
+    3407
+  ],
+  "checkpoint_steps": [
+    312,
+    624,
+    936
+  ],
+  "candidate_exposures_per_update": 8,
+  "steps_per_equivalent_epoch": 312
+}
